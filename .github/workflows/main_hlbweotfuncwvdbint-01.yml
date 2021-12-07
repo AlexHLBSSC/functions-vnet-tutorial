@@ -39,4 +39,4 @@ jobs:
           app-name: 'HLBWEOTFUNCWVDBINT-01'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C6F1D65BC5944B6EA8A3A0127D2CF9B2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C126F90C30894B3BB6EF4CE7B334FFF4 }}
